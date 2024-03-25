@@ -1,0 +1,22 @@
+.vehicle-item {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 400px;
+}
+
+.vehicle-item-abrv {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.vehicle-item-name {
+    font-size: 1rem;
+    color: #333;
+}

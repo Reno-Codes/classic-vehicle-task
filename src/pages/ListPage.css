@@ -1,0 +1,12 @@
+.vehicle-list-container {
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+
+.vehicle-makes {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 1rem;
+}
